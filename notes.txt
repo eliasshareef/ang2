@@ -1,3 +1,4 @@
 notes:-
 [] is property binding
 () is event binding
+now test added
