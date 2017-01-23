@@ -1,0 +1,3 @@
+notes:-
+[] is property binding
+() is event binding
