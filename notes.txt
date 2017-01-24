@@ -2,3 +2,4 @@ notes:-
 [] is property binding
 () is event binding
 http://simplyaccessible.com/article/spangular-accessibility/
+https://www.ng-book.com/p/Events/
