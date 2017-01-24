@@ -5,3 +5,4 @@ http://simplyaccessible.com/article/spangular-accessibility/
 https://www.ng-book.com/p/Events/
 https://toddmotto.com/exploring-the-angular-1-5-component-method/
 https://www.sitepoint.com/upgrade-to-angular-components/
+https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview
