@@ -8,3 +8,6 @@ https://www.sitepoint.com/upgrade-to-angular-components/
 https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview
 https://docs.angularjs.org/guide/component
 tryout yourself
+//$root example
+http://jsfiddle.net/3XT3F/10/
+https://github.com/angular/angular.js/issues/4068
