@@ -13,3 +13,5 @@ http://jsfiddle.net/3XT3F/10/
 https://github.com/angular/angular.js/issues/4068
 //event
 https://github.com/angular-ui/ui-router/wiki/Quick-Reference#events-1
+//route
+https://www.youtube.com/watch?v=0uvAseNXDr0&feature=player_embedded
